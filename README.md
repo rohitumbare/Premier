@@ -10,20 +10,25 @@ Premier is an immersive and visually captivating web page designed to showcase f
 <br>
 
 <b>💡 Key Features : </b><br>
-✅ Dynamic Navigation: 
+✅ Dynamic Navigation:  <br>
 The navigation bar is intuitively structured, enabling users to explore different sections easily, including models, blogs, and information.<br>
 
-✅ Engaging Multimedia Content: The main area features a stunning video background, complemented by image sliders and rich text content that showcase models and fashion stories effectively.<br>
+✅ Engaging Multimedia Content: <br>
+The main area features a stunning video background, complemented by image sliders and rich text content that showcase models and fashion stories effectively.<br>
 
-✅ Horizontal Image Slider: Users can scroll through a captivating horizontal slider displaying various models, enhancing visual engagement.<br>
+✅ Horizontal Image Slider: <br>
+Users can scroll through a captivating horizontal slider displaying various models, enhancing visual engagement.<br>
 
-✅ Responsive Design: The layout adjusts seamlessly to different screen sizes using media queries, ensuring an optimal viewing experience on both mobile and desktop devices.<br>
+✅ Responsive Design: <br>
+The layout adjusts seamlessly to different screen sizes using media queries, ensuring an optimal viewing experience on both mobile and desktop devices.<br>
 
-✅ Alphabet Navigation: An interactive alphabet navigation allows users to quickly jump to specific sections, enhancing usability.<br>
+✅ Alphabet Navigation:  <br>
+An interactive alphabet navigation allows users to quickly jump to specific sections, enhancing usability.<br>
 
-✅ Preloader Animation: A preloader enhances user experience by displaying a loading animation while content is being fetched.<br>
+✅ Preloader Animation: <br>
+A preloader enhances user experience by displaying a loading animation while content is being fetched.<br>
 
-✅ Marquee Text: 
+✅ Marquee Text:  <br>
 Dynamic marquee text adds a lively touch, drawing attention to important announcements or promotions.<br>
 
 
